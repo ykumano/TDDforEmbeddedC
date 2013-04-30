@@ -29,7 +29,6 @@
 #include "LedDriver.h"
 #include "RuntimeErrorStub.h"
 
-
 TEST_GROUP(LedDriver);
 static uint16_t virtualLeds;
 TEST_SETUP(LedDriver)
